@@ -1,3 +1,11 @@
+import { alert, defaultModules, notice, info, success, error} from "./node_modules/@pnotify/core";
+//стилі
+import "./node_modules/@pnotify/core/dist/PNotify.css";
+import "./node_modules/@pnotify/core/dist/BrightTheme.css";
+// import { alert, defaultModules, notice, info, success, error} from "@pnotify/core";
+// //стилі
+// import "@pnotify/core/dist/PNotify.css";
+// import "@pnotify/core/dist/BrightTheme.css";
 
 const keys = ["k f n g a e y b t w "];
 
